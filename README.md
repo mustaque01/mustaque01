@@ -11,11 +11,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mdmusta41563756" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdmusta41563756" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-mustak-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mustak-dev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-mustak-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mustak-dev" height="30" width="40" /></a>
 <a href="https://instagram.com/un_individu_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="un_individu_1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/www.youtube.com/@codermustaque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@codermustaque" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/mustak_11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mustak_11/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/mdmustaque/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/mdmustaque/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@codermustaque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@codermustaque" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/mustak_11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mustak_11/" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/mdmustaque/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/mdmustaque/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
