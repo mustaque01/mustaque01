@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustaque01&label=Profile%20views&color=0e75b6&style=flat" alt="mustaque01" /> </p>
 
-- 👨‍💻 All of my projects are available at [mustaque01](mustaque01)
+- 👨‍💻 All of my projects are available at [mustaque01]
 
 - 📫 How to reach me **mustakarman560@gmail.com**
 
